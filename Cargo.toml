@@ -1,0 +1,9 @@
+[package]
+name = "cipher"
+version = "0.0.1"
+authors = [ "you@example.com" ]
+
+[dependencies]
+rust-crypto = "*"
+rustc-serialize = "*"
+time = "*"
