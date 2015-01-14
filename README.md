@@ -1,7 +1,7 @@
 # rust-cipher
 
 My first attempt at a rust application.
-It uses XSalsa20 and BLAKE2B-512 to encrypt/decrypt a file passed in by argument.
+It uses XSalsa20 and BLAKE2B-512 in the Encrypt-then-MAC mode of use to encrypt/decrypt and authenticate a file passed in by argument.
 
 ## How to use?
 
