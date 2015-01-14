@@ -1,5 +1,5 @@
 [root]
-name = "cipher"
+name = "rust-cipher"
 version = "0.0.1"
 dependencies = [
  "rust-crypto 0.2.12 (registry+https://github.com/rust-lang/crates.io-index)",

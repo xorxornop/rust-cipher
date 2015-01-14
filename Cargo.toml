@@ -1,5 +1,5 @@
 [package]
-name = "cipher"
+name = "rust-cipher"
 version = "0.0.1"
 authors = [ "you@example.com" ]
 

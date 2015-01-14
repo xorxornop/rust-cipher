@@ -5,8 +5,8 @@ It uses XSalsa20 and BLAKE2B-512 in the Encrypt-then-MAC mode of use to encrypt/
 
 ## How to use?
 
-cargo update
-cargo build --release
+	cargo update
+	cargo build --release
 
 	./rust-cipher -e my_file.ext
 *Outputs a file named my_file.ext.crypted*
